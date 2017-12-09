@@ -1,0 +1,72 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	padding: 20px 0;
+}
+.navbar {
+	margin:12px 0;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border:none;
+}
+
+.navbar-nav > li > a{
+	font-weight: bold;
+}
+
+
+.navbar-brand {
+	font-family: 'Indie Flower', cursive;
+}
+
+.featured {
+	background: #5CB85C;
+	color: white;
+	padding: 40px 0;
+	margin-bottom: 40px;
+}
+
+.featured h1{
+	font-size: 60px;
+	margin-top: 0px;
+}
+
+.featured p{
+	font-size: 20px;
+}
+
+
+.services .glyphicon{
+	font-size: 50px;
+}
+
+.titleserv {
+	margin-bottom:40px;
+}
+
+.titleserv h2{
+	margin:0px;
+}
+
+.phone {
+	font-size: 30px;
+}
+
+/*footer*/
+footer {
+	background-color: #555; 
+	color: white;
+	padding: 20px 0;
+	margin-top: 40px;
+}
+
+/*copyright*/
+.copyright {
+	background-color: #666;
+	color: white;
+	padding:10px 0;
+}
